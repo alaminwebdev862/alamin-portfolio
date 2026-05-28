@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Alamin Portfolio</title>
+
 
 <style>
 body{
